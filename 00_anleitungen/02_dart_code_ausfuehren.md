@@ -24,6 +24,6 @@
 
     ![image-20240511155316616](assets/image-20240511155316616.png)
 
-  * CMD: Pfad wo das Dart-File liegt im CMD öffnen und anschließend `dart <filename>` eingeben und Enter. Man kann sollte es sich um ein Dart-Projekt handeln in den Ordner rein gehen in dem sich das Projekt befindet und im CMD `dart run` ausführen -> default wird das File im bin Ordner ausgeführt. 
+  * CMD: Pfad wo das Dart-File liegt im CMD öffnen und anschließend `dart <filename>` eingeben und Enter. Sollte es sich um ein Dart-Projekt handeln in den Ordner rein gehen in dem sich das Projekt befindet und im CMD `dart run` ausführen -> default wird das File im bin Ordner ausgeführt. 
 
     

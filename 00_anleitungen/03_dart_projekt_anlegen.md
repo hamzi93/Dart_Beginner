@@ -1,6 +1,6 @@
 # Dart Projekt Anlegen
 
-* Cmd oder Bash öffnen und mit dem Schlüsselwort `dart` prüfen, ob alles richtig installiert ist.
+* Cmd, Bash, oder Powershell öffnen und mit dem Schlüsselwort `dart` prüfen, ob alles richtig installiert ist.
 * `dart create` in cmd eingeben.
 * `dart create [argument] <directory>` für eine CMD Projekt anlegen, dabei CMD im richtigen Pfad schon aufmachen.
 * Das `argument` bezieht sich auf das Projekt:
